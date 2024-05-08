@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16" fill="none">
+<path d="M0 7.5C0 3.36 3.58 0 8 0C12.42 0 16 3.36 16 7.5C16 11.64 12.42 15 8 15C6.98533 15 6.01492 14.8229 5.12193 14.5L1 14.5L1 11.1334C0.362798 10.0568 0 8.81793 0 7.5Z" fill-rule="evenodd"  fill="url(#linear_fill_HyIkqG6nrUXt820f6RX5_)" >
+</path>
+<g >
+<path     fill="#FFFFFF"  d="M11.728 5.976L11.728 6.864L10.228 6.864L9.784 9.048L11.344 9.048L11.344 9.936L9.604 9.936L9.076 12.528L8.14 12.528L8.668 9.936L6.76 9.936L6.232 12.528L5.296 12.528L5.824 9.936L4.504 9.936L4.504 9.048L6.004 9.048L6.448 6.864L4.888 6.864L4.888 5.976L6.628 5.976L7.156 3.408L8.092 3.408L7.564 5.976L9.472 5.976L10 3.408L10.936 3.408L10.408 5.976L11.728 5.976ZM6.94 9.048L8.848 9.048L9.292 6.864L7.384 6.864L6.94 9.048Z">
+</path>
+</g>
+<defs>
+<linearGradient id="linear_fill_HyIkqG6nrUXt820f6RX5_" x1="0" y1="2.320343017578125" x2="13.74169921875" y2="12.37005615234375" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#6585FA"  />
+<stop offset="1" stop-color="#6AD5FE"  />
+</linearGradient>
+</defs>
+</svg>
